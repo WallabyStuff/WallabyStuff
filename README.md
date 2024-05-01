@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hi there" src="./images/greeting.png" /></a></p>
+<p align="center"><img width="60%" alt="Hi there" src="./images/greeting.png" /></a></p>
 
 I'm Seunggi Lee, but I go by 'Wallaby' on social media.
 
