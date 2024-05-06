@@ -7,12 +7,13 @@
   <a href="https://twitter.com/wa11ab2">
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fwa11ab2" alt="X (formerly Twitter) URL">
   </a>
-  <a href="https://app.oopy.io/home">
+  <a href="https://wallabystuff.oopy.io/">
     <img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=your-github-WallabyStuff&color=yellow" alt="Profile views"/>
 </p>
+
 
 
 I'm Seunggi Lee, but I go by 'Wallaby' on social media.
