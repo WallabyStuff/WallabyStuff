@@ -27,7 +27,6 @@ I'm Seunggi Lee, but I go by 'Wallaby' on social media.
 **About Me**
 
 - 🧑‍💻 Software Engineer from South Korea
-- 👀 I'm currently on the hunt for a new job. (구직중)
 
 <br>
 
